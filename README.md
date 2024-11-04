@@ -20,12 +20,12 @@
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 
-## <a name="introduction">🤖 Introduction (File Sharing Web App)</a>
+## <a name="introduction">🤖 Introduction (Buddy Coders web app)</a>
 
 ## Project Overview
 
-*Project Name:* CodeBuddy-(Devinder)  
-*Purpose:* Devinder is a platform designed to help developers connect for pair programming. Users can create rooms where they can share their screens, collaborate, and discuss coding issues with other developers in real-time. Codebuddy includes features for live video chat, screen sharing, room creation with tags, and filtering options for easier navigation.
+*Project Name:* BuddyCoders 
+*Purpose:* BuddyCoder is a platform designed to help developers connect for pair programming. Users can create rooms where they can share their screens, collaborate, and discuss coding issues with other developers in real-time. Codebuddy includes features for live video chat, screen sharing, room creation with tags, and filtering options for easier navigation.
 
 ## <a name="tech-stack">⚙ Tech Stack</a>
 
